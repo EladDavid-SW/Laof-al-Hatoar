@@ -11,9 +11,7 @@
   </p>
   
   <details align="center">
-
- #what did we do ?
-  
+ 
   Building a website for the association using WordPress platform.
   <br>
   
