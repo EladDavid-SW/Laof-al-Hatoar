@@ -16,7 +16,7 @@
   Building a website for the association using WordPress platform.
   Participante: 
   <br>
-  <center>
+
     
                         | name  |git username  | role |
                         | :------------:|:---------------:| :-----:|
@@ -25,5 +25,4 @@
                         |  Ofek Zada | ofekzada        |    programmer |
                         | Inbar Shmaya | inbarshmaya        |    programmer |
 
-  </center>
   </details>
