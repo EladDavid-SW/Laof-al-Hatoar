@@ -7,7 +7,7 @@
   </samp>
   <br>
   <br>
-   <img src="https://media2.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif?cid=ecf05e47r7piiyjngqgxi758s948orkri5uda7b3zjd6pzww&rid=giphy.gif&ct=g" width="200"/>
+   <img src="https://ltdreamorgil.files.wordpress.com/2021/05/d79cd7a2d795d7a3-d7a2d79c-d794d7aad795d790d7a8-1-e1622734347812.png" width="200"/>
   </p>
   
   <details align="center">
@@ -15,6 +15,7 @@
  
   Building a website for the association using WordPress platform.
   Participante: 
+  <br>
   
 | name  |git username  | role |
 | :------------:|:---------------:| :-----:|
