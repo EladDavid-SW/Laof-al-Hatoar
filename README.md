@@ -16,12 +16,12 @@
   Building a website for the association using WordPress platform.
   Participante: 
   <br>
-  
+  <center>
 | name  |git username  | role |
 | :------------:|:---------------:| :-----:|
 | Idan Kelman      | idankelman | designer |
 | Elad David      | eladdavid5        |   project manager  |
 |  Ofek Zada | ofekzada        |    programmer |
 | Inbar Shmaya | inbarshmaya        |    programmer |
-  
+  </center>
   </details>
