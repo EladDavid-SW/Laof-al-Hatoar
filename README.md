@@ -16,8 +16,7 @@
   Building a website for the association using WordPress platform.
   Participante: 
   <br>
-
-| name  |git username  | role |
+  
 | :------------:|:---------------:| :-----:|
 | Idan Kelman      | idankelman | designer |
 | Elad David      | eladdavid5        |   project manager  |
