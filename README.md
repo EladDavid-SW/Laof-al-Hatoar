@@ -2,17 +2,12 @@
 
 # Laof-al-Hatoar
 
-Building a website for the association using WordPress platform.
-Participante: Elad David, Inbar Shmaya, Idan Kelman, Ofek Zada.
+
+
 Website link: https://ltdreamorgil.wordpress.com/
 
 
-  | name  |git username  | role |
-| :------------:|:---------------:| :-----:|
-| idan      | idankelman | designer |
-| elad      | eladdavid5        |   project manager  |
-| ofek | ofekzada        |    programmer |
-| inbar | inbarshmaya        |    programmer |
+
   
   </p>
   
@@ -20,6 +15,16 @@ Website link: https://ltdreamorgil.wordpress.com/
 
 <summary> <b> <samp>See More</samp></b></summary>
 <samp>
+  
+  Building a website for the association using WordPress platform.
+  Participante: 
+  
+    | name  |git username  | role |
+| :------------:|:---------------:| :-----:|
+| Idan Kelman      | idankelman | designer |
+| Elad David      | eladdavid5        |   project manager  |
+|  Ofek Zada | ofekzada        |    programmer |
+| Inbar Shmaya | inbarshmaya        |    programmer |
   
   </samp>
   </details>
