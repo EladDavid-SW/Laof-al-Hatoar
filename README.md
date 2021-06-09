@@ -17,10 +17,9 @@
   Participante: 
   <br>
   
-| :------------:|:---------------:| :-----:|
-| Idan Kelman      | idankelman | designer |
-| Elad David      | eladdavid5        |   project manager  |
-|  Ofek Zada | ofekzada        |    programmer |
-| Inbar Shmaya | inbarshmaya        |    programmer |
+ Idan Kelman -idankelman - designer 
+ Elad David  - eladdavid5  -project manager  
+ Ofek Zada -ofekzada  -programmer 
+ Inbar Shmaya - inbarshmaya - programmer
 
   </details>
