@@ -15,7 +15,7 @@
   Building a website for the association using WordPress platform.
   <br>
   
-  Participante: 
+  Participantes: 
   <br>
   
  Idan Kelman -idankelman - designer <br>
