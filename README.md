@@ -22,5 +22,8 @@
  Elad David  - eladdavid5  -validaton <br> 
  Ofek Zada -ofekzada  -programmer <br>
  Inbar Shmaya - inbarshmaya - project manager & client communication <br>
+  
+  
+  לעוף על התואר מציעה לסטודנטים עם מוגבלויות שונות הזדמנות להשתייך לקהילה
 
   </details>
