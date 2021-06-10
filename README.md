@@ -3,7 +3,7 @@
   <p align="center">
   <br>
   <samp>
-    Website Link:<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ltdreamorgil.wordpress.com/">Laof Al Hatoar</a></b>.
+    Website Link:<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ltdream.org.il/">Laof Al Hatoar</a></b>.
   </samp>
   <br>
   <br>
